@@ -63,3 +63,15 @@ google-services.json
 /JustJava/.externalNativeBuild
 /JustJava/.cxx
 /JustJava/local.properties
+
+JustJava/gradle/
+
+*.gradle
+
+*.properties
+
+JustJava/gradlew
+
+*.bat
+
+*.pro
